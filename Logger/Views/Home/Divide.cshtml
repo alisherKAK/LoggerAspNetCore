@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "Divide";
+}
+
+<h1>Divide</h1>
+
+<form action="/Home/Calculate" method="post">
+    <p>Num 1: <input type="number" , name="num1"></p>
+    <p>Num 2: <input type="number" , name="num2"></p>
+    <input type="submit" value="Calculate"/>
+</form>
+
+<h2>@ViewBag.Result</h2>

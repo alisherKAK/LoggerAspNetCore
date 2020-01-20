@@ -1,0 +1,22 @@
+2020-01-20 21:07:45.0690||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:2235 
+2020-01-20 21:07:45.1195||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-01-20 21:07:45.1266||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-01-20 21:07:45.1266||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\калабаева\source\repos\Logger\Logger 
+2020-01-20 21:07:45.2004||TRACE|Logger.Controllers.HomeController|Common log 
+2020-01-20 21:07:45.2115||INFO|Logger.Controllers.HomeController|Common log 
+2020-01-20 21:07:45.2201||DEBUG|Logger.Controllers.HomeController|Common log 
+2020-01-20 21:07:45.2343||WARN|Logger.Controllers.HomeController|Common log 
+2020-01-20 21:07:45.2343||ERROR|Logger.Controllers.HomeController|Common log 
+2020-01-20 21:07:45.2544||FATAL|Logger.Controllers.HomeController|Common log 
+2020-01-20 21:08:19.6274||ERROR|Logger.Controllers.HomeController|Attempted to divide by zero. 
+2020-01-20 21:25:30.1368||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:19565 
+2020-01-20 21:25:30.1874||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-01-20 21:25:30.1874||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-01-20 21:25:30.2015||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\калабаева\source\repos\Logger\Logger 
+2020-01-20 21:25:30.3704||WARN|Logger.Controllers.HomeController|MyClass warning 
+2020-01-20 21:25:30.3842||TRACE|Logger.Controllers.HomeController|Common log 
+2020-01-20 21:25:30.3953||INFO|Logger.Controllers.HomeController|Common log 
+2020-01-20 21:25:30.4053||DEBUG|Logger.Controllers.HomeController|Common log 
+2020-01-20 21:25:30.4053||WARN|Logger.Controllers.HomeController|Common log 
+2020-01-20 21:25:30.4263||ERROR|Logger.Controllers.HomeController|Common log 
+2020-01-20 21:25:30.4379||FATAL|Logger.Controllers.HomeController|Common log 

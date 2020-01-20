@@ -1,0 +1,14 @@
+2020-01-20 21:07:45.2004||TRACE|Logger.Controllers.HomeController|Common log |url: |action: 
+2020-01-20 21:07:45.2115||INFO|Logger.Controllers.HomeController|Common log |url: |action: 
+2020-01-20 21:07:45.2201||DEBUG|Logger.Controllers.HomeController|Common log |url: |action: 
+2020-01-20 21:07:45.2343||WARN|Logger.Controllers.HomeController|Common log |url: |action: 
+2020-01-20 21:07:45.2343||ERROR|Logger.Controllers.HomeController|Common log |url: |action: 
+2020-01-20 21:07:45.2544||FATAL|Logger.Controllers.HomeController|Common log |url: |action: 
+2020-01-20 21:08:19.6274||ERROR|Logger.Controllers.HomeController|Attempted to divide by zero. |url: |action: 
+2020-01-20 21:25:30.3704||WARN|Logger.Controllers.HomeController|MyClass warning |url: |action: 
+2020-01-20 21:25:30.3842||TRACE|Logger.Controllers.HomeController|Common log |url: |action: 
+2020-01-20 21:25:30.3953||INFO|Logger.Controllers.HomeController|Common log |url: |action: 
+2020-01-20 21:25:30.4053||DEBUG|Logger.Controllers.HomeController|Common log |url: |action: 
+2020-01-20 21:25:30.4053||WARN|Logger.Controllers.HomeController|Common log |url: |action: 
+2020-01-20 21:25:30.4263||ERROR|Logger.Controllers.HomeController|Common log |url: |action: 
+2020-01-20 21:25:30.4379||FATAL|Logger.Controllers.HomeController|Common log |url: |action: 
